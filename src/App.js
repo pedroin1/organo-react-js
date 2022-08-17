@@ -33,7 +33,7 @@ function App() {
 			corSecundaria: "#FAE95F5",
 		},
 		{
-			nome: "Mobile",
+			nome: "Mobile Developer",
 			corPrimaria: "#FEBA05",
 			corSecundaria: "#FFF5D9",
 		},
