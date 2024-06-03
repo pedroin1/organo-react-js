@@ -1,1 +1,1 @@
-Projeto de um organogram, com fundamentos basicos do react e css
+Projeto de um organograma, com fundamentos basicos do react e css
